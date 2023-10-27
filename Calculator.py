@@ -1,22 +1,7 @@
 
-# Basic calculator in python 
-
-# a = eval(input("Enter first value :"))
-# b= eval(input("Enter second value :"))
-# opr = input("Enter your opration   (+  , -  , X  , /)")
-# if opr == "+":
-#     print( " Sum of two number is  : " ,a+b)
-# elif opr=="-":
-#     print(" Substraction of two number is  : " ,a-b)
-# elif opr =="X":
-#     print(" Multiplication of two number is  : " ,a*b)
-# elif opr =="/":
-#     print(" Division of two number is  : " ,a/b)
-# else:
-#     print("Invalid operation ")    
-
-# basic calculator in python 
-
+# Calculator programmer ....!!!
+print("Calculator program ...!!!")
+ 
 a = eval(input("Enter first value :  "))
 b = eval(input("Enter second value :  "))
 opr = input("Seclect the oprator  + , - ,X , /   ::   " )
