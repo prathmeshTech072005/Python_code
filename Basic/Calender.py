@@ -1,24 +1,20 @@
-
-# # # # # # # # # # # a = "Prathmesh Sargar"
-# # # # # # # # # # # print(a)
-
-# # # # # # # # # # # age = 19
-# # # # # # # # # # # print(age)
-
-# # # # # # # # # # # city = "Kolhapur"
-# # # # # # # # # # # print(city)
-
-# # # # # # # # # # marks = eval(input("Enter your CET Score :"))
-# # # # # # # # # # if marks >=90 :
-# # # # # # # # # #     print("Best score Excellent  ")    
-# # # # # # # # # # elif marks <90 and marks >=80:
-# # # # # # # # # #     print("Better Score") 
-# # # # # # # # # # elif marks <80 and marks >=70 :
-# # # # # # # # # #     print("Good Score")
-# # # # # # # # # # elif marks <70 and marks >=50 :
-# # # # # # # # # #     print("Average Score ")
-# # # # # # # # # # else:
-# # # # # # # # # #     print("Work hard in college ")               
+a = "Prathmesh Sargar"
+ print(a)
+age = 19
+ print(age)
+ city = "Kolhapur"
+print(city)
+ marks = eval(input("Enter your CET Score :"))
+ if marks >=90 :
+   print("Best score Excellent  ")    
+ elif marks <90 and marks >=80:
+    print("Better Score") 
+elif marks <80 and marks >=70 :
+  print("Good Score")
+elif marks <70 and marks >=50 :
+     print("Average Score ")
+ else:
+   print("Work hard in college ")               
     
 # # # # # # # # # a = 12
 # # # # # # # # # # Nested if statement ok ...!!!!
