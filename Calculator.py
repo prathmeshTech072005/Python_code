@@ -1,5 +1,6 @@
 
 # Calculator programmer ....!!!
+# this is simple calcultor ok ...
 print("Calculator program ...!!!")
  
 a = eval(input("Enter first value :  "))
